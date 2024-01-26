@@ -27,6 +27,6 @@ Each displayed book includes a button to remove it from the library. The removal
 Each book's display includes a button to toggle its read status. A function is implemented in the Book prototype to facilitate updating a book's read status.
 
 ### Preview
-[Preview](preview.png)
+![Preview](preview.png)
 #### Live Demo
 (Visit the live demo to interact with the Book Library.)[https://facu18xk.github.io/odin-bookStore/]
